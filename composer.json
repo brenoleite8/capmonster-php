@@ -4,9 +4,4 @@
     "require": {
         "phpunit/phpunit": "^7.5"
     }
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require": {
-        "brenoleite8/capmonstercloud.client": "dev-master"
-    }
 }
