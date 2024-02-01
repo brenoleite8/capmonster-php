@@ -1,6 +1,6 @@
 <?php
 
-include_once './client/src/CaptchaRequest.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/CaptchaRequest.php';
 
 
 class HCaptchaRequest extends CaptchaRequest {
