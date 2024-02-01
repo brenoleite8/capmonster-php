@@ -1,5 +1,5 @@
 {
-    "name": "zennolab/capmonstercloud.client",
+    "name": "brenoleite8/capmonstercloud.client",
     "description": "API client for capmonster.cloud",
     "require": {
         "phpunit/phpunit": "^7.5"
