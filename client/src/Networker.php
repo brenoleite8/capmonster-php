@@ -1,6 +1,6 @@
 <?php
 
-include_once "vendor/zennolab/capmonstercloud.client/client/src/Result.php";
+include_once "vendor/brenoleite8/capmonstercloud.client/client/src/Result.php";
 
 class Networker {
 
