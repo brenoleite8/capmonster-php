@@ -1,9 +1,9 @@
 <?php
 
-include_once 'vendor/zennolab/capmonstercloud.client/client/src/Networker.php';
-include_once 'vendor/zennolab/capmonstercloud.client/client/src/CaptchaRequest.php';
-include_once 'vendor/zennolab/capmonstercloud.client/client/src/Result.php';
-include_once 'vendor/zennolab/capmonstercloud.client/client/src/Timeouts.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/Networker.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/CaptchaRequest.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/Result.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/Timeouts.php';
 
 class Client extends Networker {
 
