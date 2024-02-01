@@ -1,8 +1,8 @@
 <?php
 
-include_once './client/src/Networker.php';
-include_once './client/src/Result.php';
-include_once './client/src/Validator.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/Networker.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/Result.php';
+include_once 'vendor/brenoleite8/capmonstercloud.client/client/src/Validator.php';
 
 class CaptchaRequest extends Networker {
 
